@@ -44,7 +44,7 @@ How It Works
 📦 Installation
 
 1. Clone the repository:
-  git clone https://github.com/MANISHYASH/AL-powered-resume-screener.git
+  git clone https://github.com/MANISHYASH/ResumeInsight-AI-Powered-Resume-Classifier.git
   cd resume-classifier
 
 2. Set up a virtual environment (optional but recommended):
