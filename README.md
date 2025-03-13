@@ -44,7 +44,7 @@ How It Works
 📦 Installation
 
 1. Clone the repository:
-  git clone https://github.com/yourusername/resume-classifier.git
+  git clone https://github.com/MANISHYASH/AL-powered-resume-screener.git
   cd resume-classifier
 
 2. Set up a virtual environment (optional but recommended):
