@@ -1,0 +1,8 @@
+streamlit
+scikit-learn
+spacy
+PyPDF2
+mammoth
+matplotlib
+wordcloud
+pickle-mixin
